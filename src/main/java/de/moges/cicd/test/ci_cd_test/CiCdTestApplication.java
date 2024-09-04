@@ -23,6 +23,9 @@ public class CiCdTestApplication {
 /*
  * echo "# githubActions-cicd-example" >> README.md
  * git init
+ * git status
+ * git add src
+ * git add pom.xml
  * git add README.md
  * git commit -m "first commit"
  * git branch -M main
