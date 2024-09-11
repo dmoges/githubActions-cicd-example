@@ -11,7 +11,7 @@ public class CiCdTestApplication {
 
 	@GetMapping("/welcome")
 	public String welcome() {
-		return "Welcome to ci-cd testing using GitActions.";
+		return "Welcome to ci-cd testing using GitActions. GitActions from VS Code";
 	}
 
 	public static void main(String[] args) {
