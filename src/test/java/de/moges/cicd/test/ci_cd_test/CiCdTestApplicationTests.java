@@ -12,6 +12,7 @@ class CiCdTestApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
 	void addFailingtest() {
 		assertEquals(1,2);
 	}
